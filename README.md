@@ -1,4 +1,4 @@
-# Drone Control System
+# Crazyflie Drone Targeted Landing System
 
 ## Overview
 
@@ -32,10 +32,4 @@ While the current implementation achieves the basic objectives of autonomous fli
 
 - **Obstacle Avoidance**: Integrate obstacle detection and avoidance algorithms to enhance the drone's navigation capabilities.
 - **Real-Time Trajectory Planning**: Implement algorithms for real-time trajectory planning to optimize flight paths and improve efficiency.
-- **Enhanced User Interface**: Develop a user-friendly interface for remote control and monitoring of the system.
 - **Multi-Drone Coordination**: Explore methods for coordinating multiple drones to perform collaborative tasks.
-
-## Conclusion
-
-The development of this drone control system represents a significant step towards enabling autonomous flight and precise task execution. By integrating advanced control algorithms with state-of-the-art hardware and sensing technologies, the system demonstrates the potential for unmanned aerial vehicles to perform a wide range of tasks in various environments.
-
