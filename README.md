@@ -1,4 +1,4 @@
-# Project Report: Drone Control System
+# Drone Control System
 
 ## Overview
 
